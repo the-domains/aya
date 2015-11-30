@@ -1,6 +1,6 @@
 name: Aya
 favicon: null
-layout_spectrum: 0.7532576767262071
+layout_spectrum: 0.75835
 typography_spectrum: 0.6748584234155715
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#00dfaa'
+    - '#7f9f55'
+    - '#aa0000'
+    - '#ff7f55'
   brandStrength: 0.7646031973417848
-  lightness: 0.7438228081446141
-  saturation: 0.2848358550108969
+  lightness: 0
+  saturation: 0.3125
   rhythmicContrast: 0.27433269075118005
 purpose: []
