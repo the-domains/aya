@@ -1,6 +1,6 @@
 name: Aya
 favicon: null
-layout_spectrum: 0.75835
+layout_spectrum: 0.62287
 typography_spectrum: 0.6748584234155715
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#7f9f55'
     - '#aa0000'
     - '#ff7f55'
-  brandStrength: 0.7646031973417848
+  brandStrength: 0
   lightness: 0
   saturation: 0.3125
-  rhythmicContrast: 0.27433269075118005
+  rhythmicContrast: 0.25
 purpose: []
