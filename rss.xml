@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Aya]]></title>
         <description><![CDATA[Aya]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 03:07:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 03:08:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aya/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shaman Explains How Ayahuasca Can Facilitate A Spiritual Awakening]]></title>
+            <description><![CDATA[<article><h1>Shaman Explains How Ayahuasca Can Facilitate A Spiritual Awakening</h1><p>Ayahuasca has been used in religious ceremonies for centuries. Called the "vine of the soul," ayahuasca is a brew typically made from the Banisteriopsis caapi vine and Psychotria viridis leavesthat grow predominantly in Brazil, Peru and other regions of South America.</p><img src="http://img.huffingtonpost.com/asset/1200_630/56003c411c00006b00757848.jpeg?cache=vZakbaQH3u"></article>]]></description>
+            <link>http://www.huffingtonpost.com/entry/ayahuasca-information-shaman_55f8a179e4b0b48f670121a7</link>
+            <guid isPermaLink="false">d60d0bea-b954-4dbb-b99b-2bdc47feeb7a</guid>
+            <pubDate>Mon, 30 Nov 2015 03:07:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Disturbing truth about hallucinogenic plant lapped up by backpackers]]></title>
             <description><![CDATA[<article><h1>Disturbing truth about hallucinogenic plant lapped up by backpackers</h1><p>Ayahuasca, a hallucinogenic tea, draws tourists to South American retreats It has even become popular at parties and cleansing weekends in the UK But two travellers have died after taking part in the ceremony since 2014 Brazilian families have come forward to share their own tales of horror The tea is used by a religious sect, but many describe watching their loved ones descend into madness before killing themselves or simply vanishing It is the mind-bending brew which has brought backpackers and gap year students flocking to the jungles of South America in ever greater numbers.</p><img src="http://i.dailymail.co.uk/i/pix/2015/09/30/12/2CEDF35C00000578-0-image-a-12_1443612158904.jpg"></article>]]></description>
