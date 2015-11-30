@@ -20,10 +20,10 @@ keywords:
 description: "Colombia is one of the region's fastest growing tourist destinations. In 2014, more than four million foreigners enjoyed its diverse landscapes, its colonial cities, beach sites section of the Amazon rain forest and more."
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.cctv-america.com/2015/10/11/find-out-what-is-behind-ayahuasca-that-natives-call-sacred'
+isBasedOnUrl: 'http://www.cctv-america.com/2015/10/11/find-out-what-is-behind-ayahuasca-that-natives-call-sacred#ixzz3oMkWzFtZ'
 title: Find out what is behind Ayahuasca that natives call sacred
-datePublished: '2015-11-30T03:07:35.070Z'
-dateModified: '2015-11-30T03:05:58.175Z'
+datePublished: '2015-11-30T03:21:20.919Z'
+dateModified: '2015-11-30T03:19:32.443Z'
 sourcePath: _posts/2015-11-30-find-out-what-is-behind-ayahuasca-that-natives-call-sacred.md
 published: true
 inFeed: true
