@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Aya]]></title>
+        <description><![CDATA[Aya]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 Nov 2015 03:07:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Disturbing truth about hallucinogenic plant lapped up by backpackers]]></title>
+            <description><![CDATA[<article><h1>Disturbing truth about hallucinogenic plant lapped up by backpackers</h1><p>Ayahuasca, a hallucinogenic tea, draws tourists to South American retreats It has even become popular at parties and cleansing weekends in the UK But two travellers have died after taking part in the ceremony since 2014 Brazilian families have come forward to share their own tales of horror The tea is used by a religious sect, but many describe watching their loved ones descend into madness before killing themselves or simply vanishing It is the mind-bending brew which has brought backpackers and gap year students flocking to the jungles of South America in ever greater numbers.</p><img src="http://i.dailymail.co.uk/i/pix/2015/09/30/12/2CEDF35C00000578-0-image-a-12_1443612158904.jpg"></article>]]></description>
+            <link>http://www.dailymail.co.uk/news/article-3253274/Suicides-sects-murder-insanity-disturbing-truth-trendy-spiritual-hallucinogenic-brew-taken-gap-year-backpackers-Amazon-British-sitting-rooms.html</link>
+            <guid isPermaLink="false">3cd2e18f-619e-4fab-a74a-52d9b8a159ee</guid>
+            <pubDate>Mon, 30 Nov 2015 03:07:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
