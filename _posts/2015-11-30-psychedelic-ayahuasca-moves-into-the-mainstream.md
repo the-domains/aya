@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  name: Inverse
-  domain: www.inverse.com
-  url: 'https://www.inverse.com'
-  favicon: 'https://fsmedia.imgix.net/assets/favicon/32x32.png'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.inverse.com/article/7481-on-finding-ayahuasca-and-taking-the-psychedelic-drug-for-the-first-time'
+inLanguage: en
+starred: true
 keywords:
   - shaman
   - matt
@@ -18,19 +17,20 @@ keywords:
   - brew
   - says
 description: "I grew up with Matt. We went to grade school and high school together - we've been friends for some 27 years. He was always ahead of the curve on drugs. When we were in seventh grade we went to the Eagles' Hell Freezes Over tour: Matt was happily hitting up people our parents' age for tokes as I innocently buried my nose beneath my sweatshirt."
-inLanguage: en
+datePublished: '2015-12-01T21:51:49.869Z'
+dateModified: '2015-12-01T21:48:27.799Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.inverse.com/article/7481-on-finding-ayahuasca-and-taking-the-psychedelic-drug-for-the-first-time'
 title: Psychedelic Ayahuasca Moves into the Mainstream
-datePublished: '2015-12-01T21:47:00.035Z'
-dateModified: '2015-12-01T21:46:54.788Z'
 sourcePath: _posts/2015-11-30-psychedelic-ayahuasca-moves-into-the-mainstream.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
 authors: []
+publisher:
+  name: Inverse
+  domain: www.inverse.com
+  url: 'https://www.inverse.com'
+  favicon: 'https://fsmedia.imgix.net/assets/favicon/32x32.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
