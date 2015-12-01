@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.peacefulmountainway.org'
   name: Ayahuasca in America
-  favicon: 'https://static.parastorage.com/client/pfavico.ico'
   domain: www.peacefulmountainway.org
+  url: 'http://www.peacefulmountainway.org'
+  favicon: 'https://static.parastorage.com/client/pfavico.ico'
 keywords:
   - judgment
   - world
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.peacefulmountainway.org/#!Be-Good/a92wn/561d86d80cf2c3576e5c52d8'
 title: 'Be Good | Ayahuasca in America'
-datePublished: '2015-11-30T03:21:20.545Z'
-dateModified: '2015-11-30T03:19:51.808Z'
+datePublished: '2015-12-01T09:02:51.134Z'
+dateModified: '2015-11-30T03:23:30.969Z'
 sourcePath: _posts/2015-11-30-be-good-or-ayahuasca-in-america.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
