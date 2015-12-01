@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://www.inverse.com'
   name: Inverse
-  favicon: 'https://fsmedia.imgix.net/assets/favicon/32x32.png'
   domain: www.inverse.com
+  url: 'https://www.inverse.com'
+  favicon: 'https://fsmedia.imgix.net/assets/favicon/32x32.png'
 keywords:
   - shaman
   - matt
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.inverse.com/article/7481-on-finding-ayahuasca-and-taking-the-psychedelic-drug-for-the-first-time'
 title: Psychedelic Ayahuasca Moves into the Mainstream
-datePublished: '2015-11-30T03:07:46.712Z'
-dateModified: '2015-11-30T03:06:41.460Z'
+datePublished: '2015-12-01T21:47:00.035Z'
+dateModified: '2015-12-01T21:46:54.788Z'
 sourcePath: _posts/2015-11-30-psychedelic-ayahuasca-moves-into-the-mainstream.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
