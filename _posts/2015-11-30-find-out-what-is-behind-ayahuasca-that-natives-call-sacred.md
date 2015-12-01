@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.cctv-america.com'
   name: CCTV America
-  favicon: 'http://cdn.cctv-america.com/wp-content/uploads/2015/11/cropped-CCTVAM_Logo_512x512-192x192.jpg'
   domain: www.cctv-america.com
+  url: 'http://www.cctv-america.com'
+  favicon: 'http://cdn.cctv-america.com/wp-content/uploads/2015/11/cropped-CCTVAM_Logo_512x512-192x192.jpg'
 keywords:
   - yage
   - spiritual
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.cctv-america.com/2015/10/11/find-out-what-is-behind-ayahuasca-that-natives-call-sacred#ixzz3oMkWzFtZ'
 title: Find out what is behind Ayahuasca that natives call sacred
-datePublished: '2015-11-30T03:21:20.919Z'
-dateModified: '2015-11-30T03:19:32.443Z'
+datePublished: '2015-12-01T09:03:14.920Z'
+dateModified: '2015-11-30T03:23:33.131Z'
 sourcePath: _posts/2015-11-30-find-out-what-is-behind-ayahuasca-that-natives-call-sacred.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
