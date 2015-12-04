@@ -1,14 +1,10 @@
 ---
-author:
-  - name: CannabisDrinkMate
-    url: 'https://www.youtube.com/user/CannabisDrinkMate'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=_86NhPx0hZQ'
+inLanguage: en
+starred: false
 keywords:
   - mckenna
   - terence
@@ -21,7 +17,13 @@ keywords:
   - dmt
   - cannabisdrinkmate
 description: 'Genre: Psychedelic, Spoken Word. Year: 1993 Terence McKenna speaks at: 01:58 - 12:24 - about Archaic Revival 19:42 - 31:36 - about DMT Experience 44:40 - End - about Timewave Zero Original Tracklist: 00:00 - Archaic Revival 12:02 - Transient Generator 19:34 - Alien Love 26:44 - Speaking In Tongue 37:11 - Aerobatic 43:40 - Timewave Zero Art work made by Geoff Taylor.'
-inLanguage: en
+datePublished: '2015-12-04T03:09:53.832Z'
+dateModified: '2015-12-04T03:09:46.299Z'
+author:
+  - name: CannabisDrinkMate
+    url: 'https://www.youtube.com/user/CannabisDrinkMate'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=_86NhPx0hZQ&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=_86NhPx0hZQ&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=_86NhPx0hZQ'
 title: 'Terence McKenna - Alien Dreamtime (Live) [HQ]'
-datePublished: '2015-12-02T06:51:34.484Z'
-dateModified: '2015-12-02T06:41:16.519Z'
 sourcePath: _posts/2015-12-02-terence-mckenna-alien-dreamtime-live-hq.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
