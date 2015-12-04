@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/ayamountainky'
+inLanguage: en
+starred: false
+keywords:
+  - goo
+  - ayahuasca
+  - http
+  - shamanic
+  - huffington
+  - tweet
+  - ayamountainky
+  - psychedelic
+  - location
+  - spiritual
+description: 'The latest Tweets from AyaMountainKY (@AyaMountainKY). Ayahuasca retreat in America. We are a Native American Church helping others on their #Ayahuasca spiritual journeys. Berea, KY'
+datePublished: '2015-12-04T03:02:47.061Z'
+dateModified: '2015-12-04T03:02:42.804Z'
 author:
   - name: ayamountainky
     url: 'http://twitter.com/ayamountainky'
@@ -23,36 +43,18 @@ author:
           - 24
           - 18
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - goo
-  - ayahuasca
-  - http
-  - shamanic
-  - huffington
-  - tweet
-  - ayamountainky
-  - psychedelic
-  - location
-  - spiritual
-description: 'The latest Tweets from AyaMountainKY (@AyaMountainKY). Ayahuasca retreat in America. We are a Native American Church helping others on their #Ayahuasca spiritual journeys. Berea, KY'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/ayamountainky'
-datePublished: '2015-12-01T10:13:56.621Z'
-dateModified: '2015-12-01T09:04:47.106Z'
 title: ''
 sourcePath: _posts/2015-12-01-the-latest-tweets-from-ayamountainky-ayamountainky-ayahu.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Comment
 _context: 'http://schema.org'
 
 ---
-> The latest Tweets from AyaMountainKY &lpar;&commat;AyaMountainKY&rpar;&period; Ayahuasca retreat in America&period; We are a Native American Church helping others on their &num;Ayahuasca spiritual journeys&period; Berea&comma; KY
+> The latest Tweets from @AyaMountainKY -  Ayahuasca retreat in America.  Experience Ayahuasca in Kentucky
