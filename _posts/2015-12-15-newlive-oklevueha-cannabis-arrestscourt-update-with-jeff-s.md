@@ -42,8 +42,8 @@ inLanguage: is
 app_links: []
 isBasedOnUrl: 'http://www.blogtalkradio.com/prophecykeepers/2014/07/28/newlive-oklevueha-cannabis-arrestscourt-update-w-jeff-standing-tall-gardner'
 title: 'NEW/LIVE! OKLEVUEHA: CANNABIS ARRESTS/COURT UPDATE w/ Jeff Standing Tall Gardner'
-datePublished: '2015-12-15T07:56:33.530Z'
-dateModified: '2015-12-15T07:53:23.289Z'
+datePublished: '2015-12-15T07:56:33.562Z'
+dateModified: '2015-12-15T07:53:28.126Z'
 sourcePath: _posts/2015-12-15-newlive-oklevueha-cannabis-arrestscourt-update-with-jeff-s.md
 published: true
 inFeed: true
