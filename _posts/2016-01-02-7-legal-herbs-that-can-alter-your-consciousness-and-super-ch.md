@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://collectivelyconscious.net/articles/7-legal-herbs-that-can-alter-your-consciousness-and-super-charge-your-dreams/'
 title: 7 Legal Herbs That Can Alter Your Consciousness And Super-Charge Your Dreams
-datePublished: '2016-01-02T05:44:52.707Z'
-dateModified: '2016-01-02T05:33:21.401Z'
+datePublished: '2016-01-02T23:57:10.056Z'
+dateModified: '2016-01-02T06:03:48.437Z'
 sourcePath: _posts/2016-01-02-7-legal-herbs-that-can-alter-your-consciousness-and-super-ch.md
 published: true
 inFeed: true
