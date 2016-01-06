@@ -1,10 +1,11 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.flickr.com/photos/hgcharing/sets/72157620132254791/with/3971799372/'
-inLanguage: en
-starred: false
+author: []
+related: []
+publisher:
+  url: 'http://flickr.com/'
+  name: Flickr
+  favicon: 'https://s.yimg.com/pw/favicon.ico'
+  domain: www.flickr.com
 keywords:
   - access_key
   - fullscreen
@@ -16,27 +17,23 @@ keywords:
   - linguistic
   - geometric
   - intricate
-description: ''
-datePublished: '2016-01-06T16:47:47.707Z'
-dateModified: '2016-01-06T16:47:33.075Z'
-author: []
-related: []
+inLanguage: en
 app_links:
   - url: 'flickr://flickr.com/photos/hgcharing/albums/72157620132254791'
     type: ios
     app_name: Flickr
     app_store_id: '328407587'
+isBasedOnUrl: 'https://www.flickr.com/photos/hgcharing/sets/72157620132254791/with/3971799372/'
 title: Shipibo Traditional Art and designs
-authors: []
-publisher:
-  name: Flickr
-  domain: www.flickr.com
-  url: 'http://flickr.com/'
-  favicon: 'https://s.yimg.com/pw/favicon.ico'
+datePublished: '2016-01-06T16:59:01.710Z'
+dateModified: '2016-01-06T16:58:37.724Z'
 sourcePath: _posts/2016-01-06-shipibo-traditional-art-and-designs.md
 published: true
+inFeed: true
+hasPage: false
+inNav: false
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e455c761-96ab-4aa9-8115-8d9af5876a09.jpg)
+![Shipibo Traditional Art and designs](https://c4.staticflickr.com/4/3342/3650459715_55393fcf37.jpg)
