@@ -1,6 +1,6 @@
 name: Aya
 favicon: null
-layout_spectrum: 0.48195
+layout_spectrum: 0
 typography_spectrum: 0.22768
 title: Ayahuasca Journal
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#00a6ff'
-    - '#006ff4'
-    - '#1a51e9'
-    - '#072a88'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0.1875
+    - '#0e2040'
+    - '#f9eb57'
+    - '#ef6a68'
+    - '#0e90d3'
+    - '#ae97d7'
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
