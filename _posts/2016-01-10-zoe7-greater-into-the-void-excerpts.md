@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://web.archive.org'
-  name: Archive
-  favicon: 'https://web.archive.org/favicon.ico'
-  domain: web.archive.org
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://web.archive.org/web/20081201084914/http://zoe7.com/intothevoid_excerpts.php'
+inLanguage: en
+starred: false
 keywords:
   - dream
   - obe
@@ -18,19 +17,22 @@ keywords:
   - sleep
   - mind
 description: '(Excerpt from the Prologue) It is 3:30 in the morning and I have completed my third REM sleep cycle. Having ingested 1,300 mg. of dextromethorphan HBr about half an hour earlier, I attach the electrodes of the neuroelectrical stimulator to my temples. It is set for a pulse repetition rate of 111 Hz.'
-inLanguage: en
+datePublished: '2016-01-13T17:44:19.888Z'
+dateModified: '2016-01-13T17:44:14.875Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://web.archive.org/web/20081201084914/http://zoe7.com/intothevoid_excerpts.php'
 title: 'Zoe7 > Into the Void Excerpts'
-datePublished: '2016-01-10T19:32:12.801Z'
-dateModified: '2016-01-10T18:43:48.420Z'
 sourcePath: _posts/2016-01-10-zoe7-greater-into-the-void-excerpts.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Archive
+  domain: web.archive.org
+  url: 'https://web.archive.org'
+  favicon: 'https://web.archive.org/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Zoe7 &gt; Into the Void Excerpts</h1><p>&amp;lpar;Excerpt from the Prologue&amp;rpar; It is 3&amp;colon;30 in the morning and I have completed my third REM sleep cycle&amp;period; Having ingested 1&amp;comma;300 mg&amp;period; of dextromethorphan HBr about half an hour earlier&amp;comma; I attach the electrodes of the neuroelectrical stimulator to my temples&amp;period; It is set for a pulse repetition rate of 111 Hz&amp;period;</p></article>
+<article style=""><h1>Zoe7  - Into the Void</h1><p>(Excerpt from the Prologue) It is 3:30 in the morning and I have completed my third REM sleep cycle. Having ingested 1,300 mg. of dextromethorphan HBr about half an hour earlier, I attach the electrodes of the neuroelectrical stimulator to my temples. It is set for a pulse repetition rate of 111 Hz.</p></article>
