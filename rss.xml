@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Aya]]></title>
-        <description><![CDATA[Aya]]></description>
-        <link>https://thegrid.ai/aya/</link>
+        <title><![CDATA[Ayahuasca Journal]]></title>
+        <description><![CDATA[Ayahuasca Journal]]></description>
+        <link>http://ayamountain.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 16:56:54 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/aya/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 17:34:20 GMT</lastBuildDate>
+        <atom:link href="http://ayamountain.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Psychedelic Ayahuasca Moves into the Mainstream]]></title>
             <description><![CDATA[<article><h1>Psychedelic Ayahuasca Moves into the Mainstream</h1><p>I grew up with Matt. We went to grade school and high school together - we've been friends for some 27 years. He was always ahead of the curve on drugs. When we were in seventh grade we went to the Eagles' Hell Freezes Over tour: Matt was happily hitting up people our parents' age for tokes as I innocently buried my nose beneath my sweatshirt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20662c3a76de10b4380d19c0f07f3df49b2d9ea1.jpg"></article>]]></description>
             <link>https://www.inverse.com/article/7481-on-finding-ayahuasca-and-taking-the-psychedelic-drug-for-the-first-time</link>
             <guid isPermaLink="false">c4d799fa-bf51-4c1f-bd59-edf3d46206ef</guid>
             <pubDate>Tue, 01 Dec 2015 21:51:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Terence McKenna (Big Bird) The Concept of what God is.]]></title>
+            <description><![CDATA[<article><h1>Terence McKenna (Big Bird) The Concept of what God is.</h1><p>Taken from the talk "Ecology of Souls" https://www.facebook.com/rokuspsychedeliccoffee *Someone got all butthurt over the fact that this had been done before, So, I would like to thank the starter of the Big Bird idea, Josh Gura on youtube for creating the "first" big bird McKenna video. All credit is to you my friend!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56266beff13e66481128de9671e21bc13d2b4f45.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=XxA9mUiwTXQ</link>
+            <guid isPermaLink="false">13c02f12-b04b-4a10-839f-79e269158e38</guid>
+            <pubDate>Wed, 13 Jan 2016 17:34:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Winnipeg man speaks on 'self-defence' killing during hallucinogenic ceremony in Peru]]></title>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Shaman Explains How Ayahuasca Can Facilitate A Spiritual Awakening]]></title>
-            <description><![CDATA[<article><h1>Shaman Explains How Ayahuasca Can Facilitate A Spiritual Awakening</h1><p>There's a lot more to learn about this powerful, psychoactive brew that's gaining popularity in North America. Ayahuasca has been used in religious ceremonies for centuries. Called the "vine of the soul," ayahuasca is a brew typically made from the Banisteriopsis caapi vine and Psychotria viridis leaves that grow predominantly in Brazil, Peru and other regions of South America.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adaf4ff9fdfc3797e96e1934dd086aacf354240b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Shaman Explains How Ayahuasca Can Facilitate A Spiritual Awakening</h1><p>There's a lot more to learn about this powerful, psychoactive brew that's gaining popularity in North America. Ayahuasca has been used in religious ceremonies for centuries. Called the "vine of the soul," ayahuasca is a brew typically made from the Banisteriopsis caapi vine and Psychotria viridis leaves that grow predominantly in Brazil, Peru and other regions of South America.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/206fbb66201761ccb70200a306bed516c2b14c47.jpg"></article>]]></description>
             <link>http://supershare.it/shaman-explains-how-ayahuasca-can-facilitate-a-spiritual-awakening/</link>
             <guid isPermaLink="false">496c0e3e-8cc8-4aeb-93fe-4169ae662f29</guid>
             <pubDate>Wed, 13 Jan 2016 16:56:04 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://supershare.it/researcher-psychedelic-plants-are-trying-to-communicate-with-humans/</link>
             <guid isPermaLink="false">0b618446-c3b4-4c20-82b3-71247edb94c1</guid>
             <pubDate>Fri, 08 Jan 2016 16:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://html1-f.scribdassets.com/1cig5b3itctb6xe/images/1-063fb253c4.jpg">]]></description>
-            <link>https://thegrid.ai/aya/90658e96-9ab6-4416-a973-86e1cb0b563e/index.html</link>
-            <guid isPermaLink="false">90658e96-9ab6-4416-a973-86e1cb0b563e</guid>
-            <pubDate>Wed, 06 Jan 2016 16:59:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
