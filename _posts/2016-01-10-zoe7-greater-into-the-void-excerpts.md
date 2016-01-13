@@ -17,8 +17,8 @@ keywords:
   - sleep
   - mind
 description: '(Excerpt from the Prologue) It is 3:30 in the morning and I have completed my third REM sleep cycle. Having ingested 1,300 mg. of dextromethorphan HBr about half an hour earlier, I attach the electrodes of the neuroelectrical stimulator to my temples. It is set for a pulse repetition rate of 111 Hz.'
-datePublished: '2016-01-13T17:44:19.888Z'
-dateModified: '2016-01-13T17:44:14.875Z'
+datePublished: '2016-01-13T17:47:39.269Z'
+dateModified: '2016-01-13T17:47:30.399Z'
 author: []
 related: []
 app_links: []
@@ -36,3 +36,5 @@ _type: MediaObject
 
 ---
 <article style=""><h1>Zoe7  - Into the Void</h1><p>(Excerpt from the Prologue) It is 3:30 in the morning and I have completed my third REM sleep cycle. Having ingested 1,300 mg. of dextromethorphan HBr about half an hour earlier, I attach the electrodes of the neuroelectrical stimulator to my temples. It is set for a pulse repetition rate of 111 Hz.</p></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a86c285-5e8e-4264-839f-2ab51acff71d.jpg)
