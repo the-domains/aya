@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: Information About the sacred plant shamanic brew ayahuasca from the Amazon
-datePublished: '2016-01-21T01:42:34.091Z'
+datePublished: '2016-01-21T01:42:34.141Z'
 dateModified: '2016-01-21T01:42:30.227Z'
 title: Welcome to Ayahuasca Journal
 author: []
