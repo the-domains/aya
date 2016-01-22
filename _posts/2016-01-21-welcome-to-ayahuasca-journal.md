@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: Information About the sacred plant shamanic brew ayahuasca from the Amazon
-datePublished: '2016-01-22T01:17:23.309Z'
-dateModified: '2016-01-22T01:17:20.538Z'
+datePublished: '2016-01-22T01:22:32.438Z'
+dateModified: '2016-01-22T01:22:30.709Z'
 title: Welcome to Ayahuasca Journal
 author: []
 sourcePath: _posts/2016-01-21-welcome-to-ayahuasca-journal.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: welcome-to-ayahuasca-journal/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b6ba4ca-3524-4ef5-ba17-c6254f08597b.jpg)
