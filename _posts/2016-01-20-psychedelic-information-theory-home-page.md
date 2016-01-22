@@ -17,7 +17,7 @@ keywords:
   - bibliography
   - createspace
 description: 'Psychedelic Information Theory: Shamanism in the Age of Reason, by James Kent. Official Web Home Page'
-datePublished: '2016-01-22T01:25:58.234Z'
+datePublished: '2016-01-22T01:25:58.275Z'
 dateModified: '2016-01-22T01:25:54.754Z'
 author: []
 related: []
